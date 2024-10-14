@@ -68,4 +68,4 @@ The initial pattern constitutes the seed of the system. The first generation is 
 Standard MIT license. Feel free to modify as you please.
 
 ## Author
-Created by [@sudfish](https://github.com/sudfish)
+Created by [@kodesun](https://github.com/kodesun)
